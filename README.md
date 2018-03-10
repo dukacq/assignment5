@@ -1,2 +1,3 @@
 # assignment5
-Group work with title
+Proposal writing:
+1. Title and an introduction/background to the problem/research ONLY
